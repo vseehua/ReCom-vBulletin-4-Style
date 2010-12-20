@@ -1,0 +1,29 @@
+********************************************************
+******** VB4STYLE-Dark-Silver | By VB4STYLE.com ********
+********************************************************
+********         vBulletin 4.0.2 Style          ********
+********************************************************
+********************************************************
+
+STEP #1) Upload the following folders to your forum image path: (http://yoursite.com/images/ or http://yoursite.com/forum/images/) 
+depending on the location of your vbulletin forum installation.
+
+- vb4style-clean-green
+
+
+STEP #2) Now import the following .XML files via your ADMINCP, Styles & Templates, Download / Upload Styles, Import Style XML File.
+
+- vb4style-clean-green.XML
+
+
+Once the above steps are carried out, head to your ADMINCP, Settings, Options, Style & Language Settings, and select
+the style of your choice.
+
+You may Edit the vbulletin 4 style for personal use, but under no circumstances are you permitted to resell, modify or re-licence 
+our styles for commercial purposes, Remember you are not permitted to remove the Footer link !! if you do so, you will be asked
+to remove the style from your website / host, failure to do so may result in legal action.
+
+
+Should you require any help please use our support forums here: http://vb4style.com
+
+You may also refer to the offical vBulletin documentation here: http://www.vbulletin.com/forum/content.php?143-StyleVar-Visual-Dictionary-for-Forum-Blog-and-CMS-PDF-Documents
